@@ -84,13 +84,12 @@
     display: flex;
     align-items: center;
     gap: 0.25rem;
-    ;
+    
 }
 
 .dropdown-icon {
     width: 0.75rem;
     height: 0.75rem;
-    ;
 }
 
 
@@ -99,16 +98,16 @@
 .search-box {
     flex: 1;
     max-width: 36.25rem;
-    ;
+    
 
     display: flex;
     align-items: center;
     gap: 0.75rem;
-    ;
+    
 
     background-color: #f0f0f0;
     border-radius: 3.875rem;
-    ;
+    
 
     padding: 0.75rem 1rem;
 }
@@ -129,15 +128,15 @@
     display: flex;
     align-items: center;
     gap: 0.875rem;
-    ;
+    
 }
 
 .cart-btn img,
 .profile-btn img {
     width: 1.5rem;
-    ;
+    
     height: 1.5rem;
-    ;
+    
 }
 
 .menu-toggle-btn,
@@ -151,7 +150,7 @@
 @media (max-width: 992px) {
     .container {
         padding: 0 2.5rem;
-        ;
+        
     }
 
     .close-icon {
@@ -167,7 +166,7 @@
         align-items: center;
         justify-content: flex-start;
         gap: 1.5rem;
-        ;
+        
     }
 
     .menu-toggle-btn {
@@ -194,7 +193,7 @@
 
     .brand-name {
         font-size: 1.75rem;
-        ;
+        
     }
 }
 
@@ -224,7 +223,7 @@
         align-items: center;
         justify-content: flex-start;
         gap: 1rem;
-        ;
+        
     }
 
     .menu-toggle-btn {
@@ -236,7 +235,7 @@
 
     .brand-name {
         font-size: 1.5rem;
-        ;
+        
     }
 
     .brand-logo {
@@ -258,7 +257,7 @@
 
     .user-actions {
         gap: 0.75rem;
-        ;
+        
     }
 }
 
